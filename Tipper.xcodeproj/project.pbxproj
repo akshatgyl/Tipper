@@ -9,11 +9,23 @@
 /* Begin PBXBuildFile section */
 		691D07951C115CCA009D60A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691D07941C115CCA009D60A6 /* AppDelegate.swift */; };
 		691D07971C115CCA009D60A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691D07961C115CCA009D60A6 /* ViewController.swift */; };
-		691D079A1C115CCA009D60A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 691D07981C115CCA009D60A6 /* Main.storyboard */; };
 		691D079C1C115CCA009D60A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 691D079B1C115CCA009D60A6 /* Assets.xcassets */; };
 		691D079F1C115CCA009D60A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 691D079D1C115CCA009D60A6 /* LaunchScreen.storyboard */; };
 		691D07AA1C115CCA009D60A6 /* TipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691D07A91C115CCA009D60A6 /* TipperTests.swift */; };
 		691D07B51C115CCA009D60A6 /* TipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691D07B41C115CCA009D60A6 /* TipperUITests.swift */; };
+		691D07CC1C13C197009D60A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 691D07CA1C13C197009D60A6 /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
+		691D07CE1C13C222009D60A6 /* person-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 691D07CD1C13C222009D60A6 /* person-icon.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8721C30EE6500B254FB /* percent-symbol-23106-180.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C86C1C30EE6500B254FB /* percent-symbol-23106-180.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8731C30EE6500B254FB /* percent-symbol-23106-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C86D1C30EE6500B254FB /* percent-symbol-23106-120.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8741C30EE6500B254FB /* percent-symbol-23106-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C86E1C30EE6500B254FB /* percent-symbol-23106-80.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8751C30EE6500B254FB /* percent-symbol-23106-87.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C86F1C30EE6500B254FB /* percent-symbol-23106-87.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8761C30EE6500B254FB /* percent-symbol-23106-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C8701C30EE6500B254FB /* percent-symbol-23106-58.png */; settings = {ASSET_TAGS = (); }; };
+		6959C8771C30EE6500B254FB /* percent-symbol-23106-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 6959C8711C30EE6500B254FB /* percent-symbol-23106-29.png */; settings = {ASSET_TAGS = (); }; };
+		69C1F9A71C2B963500C7773D /* ChangePercentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C1F9A61C2B963500C7773D /* ChangePercentViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		69C1F9A91C2B973300C7773D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C1F9A81C2B973300C7773D /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		69C1F9AB1C2BA2B800C7773D /* ChangeCurrencyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C1F9AA1C2BA2B800C7773D /* ChangeCurrencyViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		69C1F9B11C2C56F600C7773D /* icon-settings1.png in Resources */ = {isa = PBXBuildFile; fileRef = 69C1F9B01C2C56F600C7773D /* icon-settings1.png */; settings = {ASSET_TAGS = (); }; };
+		69C1F9B31C2C589E00C7773D /* black_tick.png in Resources */ = {isa = PBXBuildFile; fileRef = 69C1F9B21C2C589E00C7773D /* black_tick.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +49,6 @@
 		691D07911C115CCA009D60A6 /* Tipper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		691D07941C115CCA009D60A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		691D07961C115CCA009D60A6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		691D07991C115CCA009D60A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		691D079B1C115CCA009D60A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		691D079E1C115CCA009D60A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		691D07A01C115CCA009D60A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -47,6 +58,19 @@
 		691D07B01C115CCA009D60A6 /* TipperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		691D07B41C115CCA009D60A6 /* TipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipperUITests.swift; sourceTree = "<group>"; };
 		691D07B61C115CCA009D60A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		691D07CB1C13C197009D60A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		691D07CD1C13C222009D60A6 /* person-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "person-icon.png"; sourceTree = "<group>"; };
+		6959C86C1C30EE6500B254FB /* percent-symbol-23106-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-180.png"; sourceTree = "<group>"; };
+		6959C86D1C30EE6500B254FB /* percent-symbol-23106-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-120.png"; sourceTree = "<group>"; };
+		6959C86E1C30EE6500B254FB /* percent-symbol-23106-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-80.png"; sourceTree = "<group>"; };
+		6959C86F1C30EE6500B254FB /* percent-symbol-23106-87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-87.png"; sourceTree = "<group>"; };
+		6959C8701C30EE6500B254FB /* percent-symbol-23106-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-58.png"; sourceTree = "<group>"; };
+		6959C8711C30EE6500B254FB /* percent-symbol-23106-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "percent-symbol-23106-29.png"; sourceTree = "<group>"; };
+		69C1F9A61C2B963500C7773D /* ChangePercentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangePercentViewController.swift; sourceTree = "<group>"; };
+		69C1F9A81C2B973300C7773D /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
+		69C1F9AA1C2BA2B800C7773D /* ChangeCurrencyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangeCurrencyViewController.swift; sourceTree = "<group>"; };
+		69C1F9B01C2C56F600C7773D /* icon-settings1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-settings1.png"; sourceTree = "<group>"; };
+		69C1F9B21C2C589E00C7773D /* black_tick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black_tick.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +123,19 @@
 			children = (
 				691D07941C115CCA009D60A6 /* AppDelegate.swift */,
 				691D07961C115CCA009D60A6 /* ViewController.swift */,
-				691D07981C115CCA009D60A6 /* Main.storyboard */,
+				691D07CA1C13C197009D60A6 /* Main.storyboard */,
+				69C1F9AA1C2BA2B800C7773D /* ChangeCurrencyViewController.swift */,
+				69C1F9A81C2B973300C7773D /* SettingsViewController.swift */,
+				69C1F9A61C2B963500C7773D /* ChangePercentViewController.swift */,
+				69C1F9B21C2C589E00C7773D /* black_tick.png */,
+				69C1F9B01C2C56F600C7773D /* icon-settings1.png */,
+				691D07CD1C13C222009D60A6 /* person-icon.png */,
+				6959C86C1C30EE6500B254FB /* percent-symbol-23106-180.png */,
+				6959C86D1C30EE6500B254FB /* percent-symbol-23106-120.png */,
+				6959C86E1C30EE6500B254FB /* percent-symbol-23106-80.png */,
+				6959C86F1C30EE6500B254FB /* percent-symbol-23106-87.png */,
+				6959C8701C30EE6500B254FB /* percent-symbol-23106-58.png */,
+				6959C8711C30EE6500B254FB /* percent-symbol-23106-29.png */,
 				691D079B1C115CCA009D60A6 /* Assets.xcassets */,
 				691D079D1C115CCA009D60A6 /* LaunchScreen.storyboard */,
 				691D07A01C115CCA009D60A6 /* Info.plist */,
@@ -192,6 +228,7 @@
 				TargetAttributes = {
 					691D07901C115CCA009D60A6 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = JTG9T7N598;
 					};
 					691D07A41C115CCA009D60A6 = {
 						CreatedOnToolsVersion = 7.0;
@@ -230,7 +267,16 @@
 			files = (
 				691D079F1C115CCA009D60A6 /* LaunchScreen.storyboard in Resources */,
 				691D079C1C115CCA009D60A6 /* Assets.xcassets in Resources */,
-				691D079A1C115CCA009D60A6 /* Main.storyboard in Resources */,
+				691D07CE1C13C222009D60A6 /* person-icon.png in Resources */,
+				6959C8741C30EE6500B254FB /* percent-symbol-23106-80.png in Resources */,
+				691D07CC1C13C197009D60A6 /* Main.storyboard in Resources */,
+				6959C8731C30EE6500B254FB /* percent-symbol-23106-120.png in Resources */,
+				6959C8721C30EE6500B254FB /* percent-symbol-23106-180.png in Resources */,
+				6959C8771C30EE6500B254FB /* percent-symbol-23106-29.png in Resources */,
+				6959C8761C30EE6500B254FB /* percent-symbol-23106-58.png in Resources */,
+				6959C8751C30EE6500B254FB /* percent-symbol-23106-87.png in Resources */,
+				69C1F9B31C2C589E00C7773D /* black_tick.png in Resources */,
+				69C1F9B11C2C56F600C7773D /* icon-settings1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +303,9 @@
 			files = (
 				691D07971C115CCA009D60A6 /* ViewController.swift in Sources */,
 				691D07951C115CCA009D60A6 /* AppDelegate.swift in Sources */,
+				69C1F9A71C2B963500C7773D /* ChangePercentViewController.swift in Sources */,
+				69C1F9A91C2B973300C7773D /* SettingsViewController.swift in Sources */,
+				69C1F9AB1C2BA2B800C7773D /* ChangeCurrencyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,20 +341,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		691D07981C115CCA009D60A6 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				691D07991C115CCA009D60A6 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		691D079D1C115CCA009D60A6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				691D079E1C115CCA009D60A6 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		691D07CA1C13C197009D60A6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				691D07CB1C13C197009D60A6 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -396,10 +445,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Tipper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = akshatgyl.Tipper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -407,10 +459,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Tipper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = akshatgyl.Tipper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -481,6 +536,7 @@
 				691D07BB1C115CCA009D60A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		691D07BC1C115CCA009D60A6 /* Build configuration list for PBXNativeTarget "TipperTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +545,7 @@
 				691D07BE1C115CCA009D60A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		691D07BF1C115CCA009D60A6 /* Build configuration list for PBXNativeTarget "TipperUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +554,7 @@
 				691D07C11C115CCA009D60A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
