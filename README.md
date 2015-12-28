@@ -22,6 +22,7 @@ The following **additional** features are implemented:
 
 - [*] Set custom percentages.
 - [*] Option to open Uber webpage from the app.
+- [*] App is designed for iPhones with a sceen size of 4.0 inches.
 
 ## Video Walkthrough 
 
