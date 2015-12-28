@@ -26,6 +26,7 @@
 		69C1F9AB1C2BA2B800C7773D /* ChangeCurrencyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C1F9AA1C2BA2B800C7773D /* ChangeCurrencyViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		69C1F9B11C2C56F600C7773D /* icon-settings1.png in Resources */ = {isa = PBXBuildFile; fileRef = 69C1F9B01C2C56F600C7773D /* icon-settings1.png */; settings = {ASSET_TAGS = (); }; };
 		69C1F9B31C2C589E00C7773D /* black_tick.png in Resources */ = {isa = PBXBuildFile; fileRef = 69C1F9B21C2C589E00C7773D /* black_tick.png */; settings = {ASSET_TAGS = (); }; };
+		69D83BF11C3119E200388D18 /* Tipper app demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D83BF01C3119E200388D18 /* Tipper app demo.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		69C1F9AA1C2BA2B800C7773D /* ChangeCurrencyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangeCurrencyViewController.swift; sourceTree = "<group>"; };
 		69C1F9B01C2C56F600C7773D /* icon-settings1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-settings1.png"; sourceTree = "<group>"; };
 		69C1F9B21C2C589E00C7773D /* black_tick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black_tick.png; sourceTree = "<group>"; };
+		69D83BF01C3119E200388D18 /* Tipper app demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Tipper app demo.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				69C1F9B21C2C589E00C7773D /* black_tick.png */,
 				69C1F9B01C2C56F600C7773D /* icon-settings1.png */,
 				691D07CD1C13C222009D60A6 /* person-icon.png */,
+				69D83BF01C3119E200388D18 /* Tipper app demo.gif */,
 				6959C86C1C30EE6500B254FB /* percent-symbol-23106-180.png */,
 				6959C86D1C30EE6500B254FB /* percent-symbol-23106-120.png */,
 				6959C86E1C30EE6500B254FB /* percent-symbol-23106-80.png */,
@@ -271,6 +274,7 @@
 				6959C8741C30EE6500B254FB /* percent-symbol-23106-80.png in Resources */,
 				691D07CC1C13C197009D60A6 /* Main.storyboard in Resources */,
 				6959C8731C30EE6500B254FB /* percent-symbol-23106-120.png in Resources */,
+				69D83BF11C3119E200388D18 /* Tipper app demo.gif in Resources */,
 				6959C8721C30EE6500B254FB /* percent-symbol-23106-180.png in Resources */,
 				6959C8771C30EE6500B254FB /* percent-symbol-23106-29.png in Resources */,
 				6959C8761C30EE6500B254FB /* percent-symbol-23106-58.png in Resources */,
